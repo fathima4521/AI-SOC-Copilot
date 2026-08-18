@@ -97,6 +97,19 @@ http://127.0.0.1:8000
 * AI-powered incident investigation
 * Threat intelligence integration
 * Automated incident response
+## 📸 Dashboard Screenshots
+
+### 🚨 High Detection Alert
+
+![High Detection Alert](high-alert.png)
+
+### 🛡️ Security Events
+
+![Security Events](security-events.png)
+
+### 🤖 Ask Copilot
+
+![Copilot Analysis](copilot-analysis.png)
 
 ## 👩‍💻 Author
 
